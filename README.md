@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saicharannetha&label=Profile%20views&color=0e75b6&style=flat" alt="saicharannetha" /> </p>
 
 
-<img align="right" alt="Coding" width="400" src="https://i.redd.it/n8agw6z2smyb1.gif">
+<img align="center" alt="Coding" width="500" src="https://i.redd.it/n8agw6z2smyb1.gif">
 Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL, Python and Machine learning, I'm Passionate about applying theoretical knowledge to practical problems and eager to contribute to data-driven decision-making in a dynamic environment. Ready to leverage my skills and enthusiasm to deliver impactful solutions in my professional journey.
 
 
