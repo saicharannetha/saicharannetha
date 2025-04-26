@@ -11,8 +11,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 ## About Me
 - 📊 Aspiring Data Analyst
 - 📚 Currently Upskilling in Data Analyst Field
-- 🎓 pursuing bachelor's degree in Computer Science and Engineering (CSE) with a specialization in Data Science
-
+- 🎓 Recent graduate in Computer Science and Engineering (CSE) with a specialization in Data Science
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
